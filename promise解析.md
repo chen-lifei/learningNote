@@ -9,7 +9,7 @@
 - promise.resolve 方法实现
 - promise.reject 方法实现
 - promise.then 方法实现
-- promise.catch 方法实现
+- promise.catch 方法实现111
 
 
 
